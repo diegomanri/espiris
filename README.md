@@ -1,5 +1,5 @@
 # Espiris
-This is a landscaping Ruby on Rails 4.2.4 application.
+This is a landscaping Ruby on Rails 4.2.5 application.
 ## Installation
 N.A.
 ## Usage
